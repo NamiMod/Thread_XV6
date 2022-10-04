@@ -1,4 +1,4 @@
-## Description
+Description
 This project is an Implementation of the kernel thread for XV6.
 There are also some tests that you can run and see how kernel threads run.
 
