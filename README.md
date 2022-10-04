@@ -3,7 +3,7 @@ This project is an Implementation of the kernel thread for XV6.
 
 There are also some tests that you can run and see how kernel threads run.
 
-## ACKNOWLEDGMENTS
+### ACKNOWLEDGMENTS
 
 xv6 is inspired by John Lions's Commentary on UNIX 6th Edition (Peer
 to Peer Communications; ISBN: 1-57398-013-7; 1st edition (June 14,
